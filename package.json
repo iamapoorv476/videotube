@@ -10,7 +10,7 @@
   "type": "module",
   "main": "./src/index.js",
   "scripts": {
-    "dev": "nodemon public/temp/src/index.js"
+    "start": "nodemon public/temp/src/index.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
